@@ -7,36 +7,42 @@ Functions---
 
 
 Function Decalaration: 
-					As we are decalering variable in before while using same as we have to define the function as well.
-					synatax-- type function_name(argments);
+			As we are decalering variable in before while using same as we have to define the function as well.
+			synatax-- type function_name(argments);
 
-					Type: here type was the type of the value the function wants to return;
-					if there is nothing to return type will be void;
-
-
-					function name: here function can be anything but can not be same as the stl functions mean built in functions.
+			Type: here type was the type of the value the function wants to return;
+			if there is nothing to return type will be void;
 
 
-					arguments: these are one that function takes as an input as we can say that they have to taken which calling the funciton;
+			function name: here function can be anything but can not be same as the stl functions mean built in functions.
+
+
+			arguments: these are one that function takes as an input as we can say that they have to taken which calling the funciton;
 
 
 
 
 example:: 
 
-   int min();
+		   int min();
 
 
-   void min();
+		   void min();
 
-   string min();
-
-
-   double* min();
+		   string min();
 
 
+		   double* min();
 
 
+
+Definition: 
+			Function definition: defining the function;
+
+			without declaration of the function also we can define functions but we have to write or define the function before the usage of the function only;
+
+			for example: 
+			in main funcion we are calling min() function then we have to define the min() function before the main function();
 
 
 
