@@ -1,0 +1,4 @@
+Functions---
+            When we write code in the main function and we want this code run again and again. Then we have to write again and again, which takes a lot of time and effect, what if like we have the particular code in another function and we call the function whenever we want and use the function which decreases the time and effort and also the lines of code will be decreased.
+
+            This will improve the code readbility and also the code reusebility. Less complex.
